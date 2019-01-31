@@ -7,7 +7,6 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
-	"master": "bash master.sh",
     "new": "yubisaki post -p docs/blog --page"
   },
   "repository": {

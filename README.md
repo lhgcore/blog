@@ -1,11 +1,3 @@
-## 一个简单的vuePress项目模板
-```
-> npm run dev
-vuepress dev docs
-
-> npm run new -- XX.md
-yubisaki post -p docs/blog --page
-
-> npm run deploy
-bash deploy.sh
-```
+# 我的个人技术博客
+https://lhgcore.github.io/blog/
+## 利用vuePress生成的一个静态博客！

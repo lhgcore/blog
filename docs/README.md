@@ -1,10 +1,9 @@
 ---
-heroText: Lewis
-activity: true
+activity: false
 hidden: true
-tagline: '如果说人生是一场旅行，而我是这场旅行的主人!'
-heroImage: /img/logo.png
+tagline: '没有伞的孩子，要努力奔跑'
+heroImage: /img/home.gif
 actionText: 了解更多 → 
 actionLink: /blog/
-footer: Copyright©  Lewis-2018
+footer: Copyright©  lhgcore-2019
 ---
